@@ -1,6 +1,6 @@
 # Analise_Premier2324
 
- Começando minha jornada no mundo da ciência de dados resolvi fazer algumas análises simples da Liga Inglesa de Futebol Premier League em Python, que estão em um arquivo em formato CSV(<>). No total foram 8 análises, tentando buscar cada vez mais dificuldade em cada uma delas e aprender um pouco mais de python.
+ Começando minha jornada no mundo da ciência de dados resolvi fazer algumas análises simples da Liga Inglesa de Futebol Premier League em Python, que estão em um arquivo em formato CSV (<a href="./Conteudos/season-2324.csv">Premier League CSV</a>). No total foram 8 análises, tentando buscar cada vez mais dificuldade em cada uma delas e aprender um pouco mais de python.
 
  ___
 
